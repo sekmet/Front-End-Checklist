@@ -13,6 +13,9 @@
   <a href="http://makeapullrequest.com">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
   </a>
+  <a href="https://gitpod.io/#https://github.com/thedaviddias/Front-End-Checklist">
+  <img src="https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod" alt="Gitpod Ready-to-Code">
+  </a>
     <a href="https://github.com/thedaviddias/Front-End-Checklist/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/thedaviddias/Front-End-Checklist.svg?style=flat-square" alt="Contributors">
   </a>
@@ -293,7 +296,7 @@ Visualize and generate automatically our social meta tags with [Meta Tags](https
 
 * [ ] **HTML Lint:** ![High][high_img] I use tools to help me analyze any issues I could have on my HTML code.
 
-> * 🛠 [Dirty markup](https://dirtymarkup.com/)
+> * 🛠 [Dirty markup](https://www.10bestdesign.com/dirtymarkup/)
 
 > * 🛠 [webhint](https://webhint.io/)
 
@@ -416,6 +419,7 @@ Visualize and generate automatically our social meta tags with [Meta Tags](https
 
 > * 🛠 [Imagemin](https://github.com/imagemin/imagemin)
 > * 🛠 Use [ImageOptim](https://imageoptim.com/) to optimise your images for free.
+> * 🛠 Use [KeyCDN Image Processing](https://www.keycdn.com/support/image-processing) for image optimization in real time.
 > * 🛠 Use [Kraken.io](https://kraken.io/web-interface) awesome alternative for both png and jpg optimization. Up to 1mb per files on free plan.
 > * 🛠 [TinyPNG](https://tinypng.com/) losslessly optimise png, apng (animated png) and jpg images. Free and paid version available.
 > * 🛠 [ZorroSVG](http://quasimondo.com/ZorroSVG/) jpg-like compression for transparent images using svg masking.
@@ -752,6 +756,13 @@ This branch consists of the `README.md` file that is automatically reflected on 
 
 This branch will be used to make some significant changes to the structure, content if needed. It is preferable to use the master branch to fix small errors or add a new item.
 
+
+### Online Setup with a single Click
+
+You can use gitpod ( A free VS Code like IDE) for contributing online, with a single click it will launch a ready to code workspace with all the dependencies pre-installed, build finished & the web server running so that you can start coding straight away.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/thedaviddias/Front-End-Checklist#how-to-use)
+
 ## Support
 
 If you have any question or suggestion, don't hesitate to use Gitter or Twitter:
@@ -798,6 +809,6 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 
 **[⬆ back to top](#table-of-contents)**
 
-[low_img]: https://front-end-checklist.now.sh/low.svg
-[medium_img]: https://front-end-checklist.now.sh/medium.svg
-[high_img]: https://front-end-checklist.now.sh/high.svg
+[low_img]: https://raw.githubusercontent.com/thedaviddias/Front-End-Checklist/master/data/images/priority/low.svg
+[medium_img]: https://raw.githubusercontent.com/thedaviddias/Front-End-Checklist/master/data/images/priority/medium.svg
+[high_img]: https://raw.githubusercontent.com/thedaviddias/Front-End-Checklist/master/data/images/priority/high.svg
